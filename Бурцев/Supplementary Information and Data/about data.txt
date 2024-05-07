@@ -1,0 +1,13 @@
+Predicted_Data_NPJ.xlsx: Conductivity and Charge Carrier data predicted for :
+i) Type I undoped
+ii) Type II undoped
+iii) Type I A-site doped
+iv) Type II A-site doped
+v) Type I B-site doped
+vi)Type II B-site doped perovskites
+
+DataJournal_NPJ.xlsx: Conductivity and charge carrier type collected from literature for perovskite
+
+XGB_Final.py : Script for the final Machine Learning regression and classification models.
+
+Conductivity_TargetFeaturesSet.csv: File containing the targets and feature set used by the Machine Learning model.
